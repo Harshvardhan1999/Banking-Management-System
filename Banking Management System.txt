@@ -378,8 +378,8 @@ void intro()
 	cout<<"\n\n\n\t  BANKING";
 	cout<<"\n\n\tMANAGEMENT";
 	cout<<"\n\n\t  SYSTEM";
-	cout<<"\n\n\n\nMADE BY : Neha Gupta";
-	cout<<"\n\nCOLLEGE : Graphic Era Deemed University";
+	cout<<"\n\n\n\nCopyright: Harshvardhan Singh Chhetri";
+	cout<<"\n\nCOLLEGE : Graphic Era Deemed to be University";
 	cin.get();
 }
 
